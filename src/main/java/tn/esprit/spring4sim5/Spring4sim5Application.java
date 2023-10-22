@@ -1,13 +1,13 @@
-package com.esprit.springp;
+package tn.esprit.spring4sim5;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringpApplication {
+public class Spring4sim5Application {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringpApplication.class, args);
+        SpringApplication.run(Spring4sim5Application.class, args);
     }
 
 }
