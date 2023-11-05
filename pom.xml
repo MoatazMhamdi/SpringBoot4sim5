@@ -8,11 +8,11 @@
         <version>3.1.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.esprit</groupId>
-    <artifactId>springp</artifactId>
+    <groupId>tn.esprit</groupId>
+    <artifactId>springProject</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>springp</name>
-    <description>springp</description>
+    <name>springProject</name>
+    <description>springProject</description>
     <properties>
         <java.version>17</java.version>
     </properties>
