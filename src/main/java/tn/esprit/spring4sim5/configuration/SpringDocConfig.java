@@ -22,8 +22,8 @@ public class SpringDocConfig {
     }
     public Contact contactAPI() {
         Contact contact = new Contact().name("Equipe ASI II")
-                .email("aymen.zouaoui@esprit.tn")
-                .url("https://www.instagram.com/aymenzouaoui16/");
+                .email("moataz.mhamdi@esprit.tn")
+                .url("https://www.instagram.com/moatazmhamdi/");
         return contact;
     }
     @Bean
